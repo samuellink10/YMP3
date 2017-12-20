@@ -1,0 +1,27 @@
+{
+  "name": "ymp3",
+  "version": "1.0.0",
+  "description": "Fazer downlaod de links do youtube e biaxar em .mp3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "samuellink10"
+  },
+  "keywords": [
+    "nodejs",
+    "youtube",
+    "download"
+  ],
+  "author": "Eli Samuel",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "express": "^4.16.2",
+    "nodemon": "^1.13.3",
+    "youtube-dl": "^1.12.2",
+    "ytdl-core": "^0.18.4"
+  }
+}
